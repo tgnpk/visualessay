@@ -3,15 +3,13 @@
 <param ve-config 
        title="Vampires"
        author="Te Pyke"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/c/c6/Edvard_Munch_-_Vampire_%281893%29%2C_Munchmuseet.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q1987925"> <!-- Varney the Vampire -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q39473"> <!-- Transylvania -->
 
 # Sample visual essay
