@@ -23,9 +23,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+_Varney the Vampire of The Feast of Blood_ was one of the first appearances of the vampire in British fiction. A serialised gothic horror story, it was first published in weekly installments printed on cheap pamphlets. As author James Malcolm Rymer was paid by the typeset line, the original edition was 667,000 words long.
 <param ve-image 
        label="Varney the Vampire" 
        description="by James Malcolm Rymer" 
