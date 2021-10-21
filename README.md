@@ -32,10 +32,9 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="http://iiif.io/api/presentation/2/context.json">
 
-## Map
+## Origins
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+In one of the earliest and, possibly, most famous depictions of a vampire in Western fiction, Bram Stoker's **Dracula** (), the titular Count lives in the historical region of Transylvania, in the northwestern part of Romania.
 <param ve-map center="Q39473" zoom="11" prefer-geojson>
 
 ## Multiple viewers
